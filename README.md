@@ -5,7 +5,7 @@
 
 <p>I'm Abid Wali, I love building amazing software and websites which make an impact and share open source projects @ <a href="https://github.com/abidwali">Github</a>.</p>
 
-//<p><a href="http://abidwali.github.io/">Portfolio Website</a></p>
+<!--<p><a href="http://abidwali.github.io/">Portfolio Website</a></p>-->
 <p align="center">Let's connect!</p>
 <p align="center">
 <a href="https://www.facebook.com/abidwali.se/">

@@ -21,13 +21,16 @@
 <a href="abidwali14@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://stackoverflow.com/users/19979752/abid-wali">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
 <!--<a href="https://www.twitter.com/abidwali/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://abidwali.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<a href="https://stackoverflow.com/users/12297382/abidwali">
+<a href="https://stackoverflow.com/users/19979752/abid-wali">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>-->
  </p>

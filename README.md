@@ -18,6 +18,9 @@
 <a href="https://www.snapchat.com/abidwali.se/">
     <img src="https://img.shields.io/badge/Snapchat-FFD700?style=for-the-badge&logo=snapchat&logoColor=white" />
 </a>
+<a href="abidwali14@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <!--<a href="https://www.twitter.com/abidwali/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>

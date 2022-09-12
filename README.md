@@ -11,6 +11,13 @@
 <a href="https://www.facebook.com/abidwali.se/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
+<a href="https://www.instagram.com/abidwali.se/">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</a>
+<a href="https://www.snapchat.com/abidwali.se/">
+    <img src="https://img.shields.io/badge/Snapchat-FFD700?style=for-the-badge&logo=snapchat&logoColor=white" />
+</a>
 <!--<a href="https://www.twitter.com/abidwali/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
@@ -27,8 +34,7 @@
 <img alt="GIF" src="coding.gif" width="100%" height="400" />
 
 #### Talking about my personal stuff:
-- 🙋‍♂️ Former Google DSC Lead [GCU Faisalabad]
-- 💻 The tech I'm interested Flutter/ML/AR/React etc.
+- 💻 The tech I'm interested in Flutter/ML/AR/React etc.
 - ✨ I'm learning Flutter, React Native, Web scrapping, Automations etc.
 
 - 📄 Live [Portfolio][profile]
